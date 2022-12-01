@@ -1,5 +1,4 @@
 # javascript_challenge
-
 Proyecto desarrollado con el objetivo de poner en práctica los conocimentos de Javascript.
 
 https://javascript-challenge.netlify.app
