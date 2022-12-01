@@ -1,6 +1,6 @@
 # javascript_challenge
 
-Proyecto desarrollado para la práctica de Javascript:
+Proyecto desarrollado con el objetivo de poner en práctica los conocimentos de Javascript:
 
 
 
