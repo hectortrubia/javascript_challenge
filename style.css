@@ -1,0 +1,396 @@
+
+/* Style problem 1 ------------------------------- */
+
+
+.main-container-one {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color:rgb(227, 227, 227);
+    margin: 50px;
+}
+
+.title-one {
+
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    justify-content: center;
+    align-items: 7px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-style: italic;
+
+}
+
+.text-one {
+
+    color: rgb(0, 0, 0);
+    justify-content: justify;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-style: italic;
+
+}
+
+.container-list-one {
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: justify;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-style: italic;
+
+}
+
+
+.cyberclick {
+
+    width: 70px;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    color: rgb(121, 1, 1);
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    margin: 3px;
+    font-style: italic;
+}
+
+.cyber {
+
+    width: 70px;
+    height: 30px;
+    background-color: rgb(129, 1, 1);
+    border: 2px solid rgb(129, 1, 1);
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 11px;
+    margin: 3px;
+    font-style: italic;
+}
+
+
+.click {
+
+    width: 70px;
+    height: 30px;
+    background-color: rgb(172, 94, 94);
+    border: 2px solid rgb(172, 94, 94);
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 11px;
+    margin: 3px;
+    font-style: italic;
+}
+
+
+.number {
+
+    width: 70px;
+    height: 30px;
+    background-color: rgb(179, 178, 178);
+    border: 2px solid rgb(179, 178, 178);
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    margin: 3px;
+    font-style: italic;
+
+}
+
+
+
+/* Style problem 2 // topic 1 ------------------------------- */
+
+
+.main-container-two-one {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: rgb(227, 227, 227);
+    margin: 50px;
+}
+
+.title-two-one {
+
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    justify-content: center;
+    align-items: 7px;
+    margin-top: 30px;
+    /* margin-bottom: 10px; */
+    margin-left: 30px;
+    margin-right: 30px;
+    font-style: italic;
+
+}
+
+.text-two-one {
+
+    color: rgb(0, 0, 0);
+    justify-content: justify;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-style: italic;
+
+}
+
+
+.container-list-two-one {
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: justify;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-style: italic;
+
+}
+
+
+.total-list-two-one {
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-style: italic;
+
+}
+
+.valid-two-one {
+
+    width: 400px;
+    height: 36px;
+    background-color: rgb(129, 1, 1);
+    /* border: 1px solid green; */
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 11px;
+    margin: 3px;
+}
+
+.no-valid-two-one {
+
+    width: 400px;
+    height: 36px;
+    background-color: rgb(147, 146, 146);
+    /* border: 1px solid rgb(128, 0, 0); */
+    color: rgb(255, 252, 252);
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 11px;
+    margin: 3px;
+}
+
+
+.total-valid-two-one {
+
+    width: 400px;
+    height: 36px;
+    background-color: rgb(129, 1, 1);
+    /* border: 1px solid green; */
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    margin: 10px;
+}
+
+
+.total-novalid-two-one {
+
+    width: 400px;
+    height: 36px;
+    background-color: rgb(147, 146, 146);
+    /* border: 1px solid rgb(128, 0, 0); */
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    margin: 10px;
+}
+
+
+
+
+
+/* style problem2 // topic 2 ----------------- */
+
+
+.main-container-two-two {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: rgb(227, 227, 227);
+    margin: 50px;
+}
+
+
+.title-two-two {
+
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    justify-content: center;
+    align-items: 7px;
+    margin-top: 30px;
+    /* margin-bottom: 10px; */
+    margin-left: 30px;
+    margin-right: 30px;
+    font-style: italic;
+
+}
+
+.text-two-two {
+
+    color: rgb(0, 0, 0);
+    justify-content: justify;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-style: italic;
+
+}
+
+
+.container-list-two-two {
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: justify;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-style: italic;
+
+}
+
+
+.total-list-two-two {
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-style: italic;
+
+}
+
+.valid-two-two {
+
+    width: 400px;
+    height: 36px;
+    background-color: rgb(129, 1, 1);
+    /* border: 1px solid green; */
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 11px;
+    margin: 3px;
+}
+
+.no-valid-two-two {
+
+    width: 400px;
+    height: 36px;
+    background-color: rgb(147, 146, 146);
+    /* border: 1px solid rgb(128, 0, 0); */
+    color: rgb(255, 252, 252);
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 11px;
+    margin: 3px;
+}
+
+
+.total-valid-two-two {
+
+    width: 400px;
+    height: 36px;
+    background-color: rgb(129, 1, 1);
+    /* border: 1px solid green; */
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    margin: 10px;
+}
+
+
+.total-novalid-two-two {
+
+      width: 400px;
+    height: 36px;
+    background-color: rgb(147, 146, 146);
+    /* border: 1px solid rgb(128, 0, 0); */
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    margin: 10px;
+}
