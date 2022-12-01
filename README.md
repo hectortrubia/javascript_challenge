@@ -1,8 +1,8 @@
 # javascript_challenge
 
-https://javascript-challenge.netlify.app
-
 Proyecto desarrollado con el objetivo de poner en práctica los conocimentos de Javascript.
+
+https://javascript-challenge.netlify.app
 
 En el briefing se encuentra desarrollado el planteamiento del problema a resolver.
 
